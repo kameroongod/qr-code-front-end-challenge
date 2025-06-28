@@ -55,7 +55,9 @@ body {
   border-radius: 2rem;
   height: 50rem;
   text-overflow: clip;
+  /* x-offset, y-offset, blur, spread, color */
   box-shadow: 0 0.4rem 0.4rem 0 #00000025;
+  /* top left/right bottom */
   padding: 1.6rem 1.6rem 4rem;
 }
 
